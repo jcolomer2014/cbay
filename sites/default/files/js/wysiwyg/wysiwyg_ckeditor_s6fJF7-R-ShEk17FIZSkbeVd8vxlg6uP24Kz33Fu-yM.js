@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/120313cosmo-v1/sites/all/libraries/ckeditor/';
