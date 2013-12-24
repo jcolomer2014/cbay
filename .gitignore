@@ -1,0 +1,11 @@
+.DS_Store
+.htaccess
+sites/*
+!sites/all
+!sites/all/*
+!sites/all/**/*
+!sites/default
+sites/default/settings.php
+sites/default/files
+sites/all/modules/.DS_Store
+sites/*/private
